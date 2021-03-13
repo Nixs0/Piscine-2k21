@@ -1,0 +1,5 @@
+Credentials cache: API:6B1CE32F-B866-4B3B-B4C4-0392E66BAE75
+        Principal: jkaruk-m@42.FR
+
+  Issued                Expires               Principal
+Feb  1 13:31:15 2021  Feb  8 13:31:15 2021  krbtgt/42.FR@42.FR
